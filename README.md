@@ -3,6 +3,16 @@
 <p>Death: 8 May 1794 (aged 50), Paris, France</p>
 <p>Known for: the Stoichiometry</p>
 <p><strong>&nbsp;</strong></p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(401).pdf">Essays Physical and Chemical </a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(400).pdf">Elements of Chemistry, In a New Systematic Order, Containing all the Modern Discoveries</a></li>
+
+</ul>
+</br>
+
 <p><strong>[2] <a href="https://en.wikipedia.org/wiki/John_Dalton">John Dalton</a></strong></p>
 <p>Birth: 6 September 1766, Eaglesfield, Cumberland, England</p>
 <p>Death: 27 July 1844 (aged 77), Manchester, Lancashire, England</p>
