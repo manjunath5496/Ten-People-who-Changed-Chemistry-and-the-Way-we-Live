@@ -54,6 +54,17 @@
 <p>Death: 7 August 1848 (aged 68), Stockholm, Sweden</p>
 <p>Known for: the formalizing the language of chemistry</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(407).pdf">The Use of the Blowpipe in Chemical Analysis: And in the Examination of Minerals  </a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(408).pdf">An attempt to establish a pure scientific system of mineralogy</a></li>
+
+</ul>
+</br>
+
+
 <p><strong>[5] <a href="https://en.wikipedia.org/wiki/Dmitri_Mendeleev">Dmitri Mendeleev</a></strong></p>
 <p>Birth: 8 February 1834, Verkhnie Aremzyani, Tobolsk</p>
 <p>Death: 2 February 1907 (aged 72), Saint Petersburg, Russian Empire</p>
