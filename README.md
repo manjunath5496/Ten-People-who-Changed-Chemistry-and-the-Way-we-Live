@@ -18,6 +18,23 @@
 <p>Death: 27 July 1844 (aged 77), Manchester, Lancashire, England</p>
 <p>Known for: the Atomic theory</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(402).pdf">A New System of Chemical Philosophy </a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(403).pdf">Foundations of the Atomic Theory: Comprising Papers and Extracts </a></li>
+  
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(404).pdf">Foundations of the Molecular Theory </a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(405).pdf"> Meteorological Observations and Essays </a></li>  
+  
+  
+
+</ul>
+</br>
+
+
+
+
 <p><strong>[3] <a href="https://en.wikipedia.org/wiki/Amedeo_Avogadro">Amedeo Avogadro</a></strong></p>
 <p>Birth: 9 August 1776, Turin, Piedmont-Sardinia</p>
 <p>Death: 9 July 1856 (aged 79), Turin, Piedmont-Sardinia</p>
