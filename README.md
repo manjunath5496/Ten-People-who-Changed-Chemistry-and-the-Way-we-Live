@@ -115,7 +115,7 @@
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(411).pdf">The X-ray analysis of complicated molecules [Nobel Lecture]</a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(411).pdf">The X-ray analysis of complicated molecules [Nobel Lecture]</a></li>
 
 </ul>
 </br>
