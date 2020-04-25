@@ -75,7 +75,7 @@
 <hr />
 <ul>
 <li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(409).pdf">An Attempt Towards a Chemical Conception of the Ether </a></li>
-<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(410).pdf">The Principles of Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(410).pdf">The Principles of Chemistry, Part 4</a></li>
 
 </ul>
 </br>
