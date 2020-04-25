@@ -111,6 +111,17 @@
 <p>Death: 29 July 1994 (aged 84), Ilmington, Warwickshire, England</p>
 <p>Known for: Development of protein crystallography</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(411).pdf">The X-ray analysis of complicated molecules [Nobel Lecture]</a></li>
+
+</ul>
+</br>
+
+
+
 <p><strong>[10]<a href="https://en.wikipedia.org/wiki/Kathleen_Lonsdale"> Kathleen Lonsdale</a></strong></p>
 <p>Birth: 28 January 1903, Newbridge, County Kildare, Ireland</p>
 <p>Death: 1 April 1971 (aged 68), London, England</p>
