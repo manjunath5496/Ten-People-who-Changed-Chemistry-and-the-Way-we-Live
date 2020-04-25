@@ -40,6 +40,15 @@
 <p>Death: 9 July 1856 (aged 79), Turin, Piedmont-Sardinia</p>
 <p>Known for: the Avogadro's law</p>
 <p>&nbsp;</p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(406).pdf">Amedeo Avogadro: A Scientific Biography </a></li>
+</ul>
+</br>
+
+
+
+
 <p><strong><br /> <strong>[4] <a href="https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius">J&ouml;ns Jacob Berzelius</a></strong></strong></p>
 <p>Birth: 20 August 1779, V&auml;versunda, &Ouml;sterg&ouml;tland, Sweden</p>
 <p>Death: 7 August 1848 (aged 68), Stockholm, Sweden</p>
