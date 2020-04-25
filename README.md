@@ -70,6 +70,17 @@
 <p>Death: 2 February 1907 (aged 72), Saint Petersburg, Russian Empire</p>
 <p>Known for: Formulating the periodic table of chemical elements</p>
 <p><strong>&nbsp;</strong></p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(409).pdf">An Attempt Towards a Chemical Conception of the Ether </a></li>
+<li><a href="https://github.com/manjunath5496/Ten-People-who-Changed-Chemistry-and-the-Way-we-Live/blob/master/tst(410).pdf">The Principles of Chemistry</a></li>
+
+</ul>
+</br>
+
+
 <p><strong>[6] <a href="https://en.wikipedia.org/wiki/Robert_Bunsen">Robert Bunsen</a></strong></p>
 <p>Birth: 30 March 1811, G&ouml;ttingen, Westphalia, Rhine Confederation (now Germany)</p>
 <p>Death: 16 August 1899 (aged 88), Heidelberg, Baden, German Empire (now Germany)</p>
