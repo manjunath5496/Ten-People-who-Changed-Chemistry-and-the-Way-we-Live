@@ -38,6 +38,16 @@
 <p>Death: Aug. 19, 1994, Big Sur, California</p>
 <p>Known for: Twentieth-Century Chemistry</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(92).pdf">Introduction to Quantum Mechanics with Applications to Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(93).pdf">The Nature of the Chemical Bond and the Structure of Molecules and Crystals: An Introduction to Modern Structural Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(94).pdf">The Architecture of Molecules</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(221).pdf">Modern structural chemistry [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[9] <a href="https://en.wikipedia.org/wiki/Dorothy_Hodgkin">Dorothy Hodgkin</a></strong></p>
 <p>Birth: 12 May 1910, Cairo, Egypt</p>
 <p>Death: 29 July 1994 (aged 84), Ilmington, Warwickshire, England</p>
